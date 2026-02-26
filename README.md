@@ -9,13 +9,18 @@ Desenvolvedor Júnior focado em construir soluções eficientes e automações q
 - **Frameworks/Libs:** React Native, Django, Google Apps Script.
 - **Especialidades:** Automação de processos, Manipulação de Dados e Desenvolvimento Web.
 
-### 📊 Estatísticas do GitHub
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=FbioDeMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FbioDeMelo&layout=compact&theme=dark)
+### 🛠️ Tecnologias e Ferramentas
 
-### 📫 Vamos nos conectar?
-- **LinkedIn:** [Clique aqui para me encontrar](https://www.linkedin.com/in/fbio-de-melo-fernandes-567515255/)
-- **Email:** [ColoqueSeuEmailAqui@exemplo.com]
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Web / Backend** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| **Automação** | ![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white) |
 
 ---
-*"Transformando café em código e processos manuais em automações."*
+
+### 📊 Minhas Linguagens mais usadas (Automático)
+Este card abaixo é gerado pelo GitHub e mostra em quais linguagens você mais trabalhou nos seus repositórios:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FbioDeMelo&layout=compact&theme=dark&langs_count=6&hide_border=true)
