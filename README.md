@@ -19,8 +19,3 @@ Desenvolvedor Júnior focado em construir soluções eficientes e automações q
 | **Automação** | ![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white) |
 
 ---
-
-### 📊 Minhas Linguagens mais usadas (Automático)
-Este card abaixo é gerado pelo GitHub e mostra em quais linguagens você mais trabalhou nos seus repositórios:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FbioDeMelo&layout=compact&theme=dark&langs_count=6&hide_border=true)
